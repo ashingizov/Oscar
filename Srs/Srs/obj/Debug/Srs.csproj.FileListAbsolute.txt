@@ -1,0 +1,12 @@
+F:\University\Искусство Программирования\Srs\Srs\bin\Debug\Srs.exe.config
+F:\University\Искусство Программирования\Srs\Srs\bin\Debug\Srs.exe
+F:\University\Искусство Программирования\Srs\Srs\bin\Debug\Srs.pdb
+F:\University\Искусство Программирования\Srs\Srs\obj\Debug\Srs.csprojAssemblyReference.cache
+F:\University\Искусство Программирования\Srs\Srs\obj\Debug\Srs.Form1.resources
+F:\University\Искусство Программирования\Srs\Srs\obj\Debug\Srs.Properties.Resources.resources
+F:\University\Искусство Программирования\Srs\Srs\obj\Debug\Srs.csproj.GenerateResource.cache
+F:\University\Искусство Программирования\Srs\Srs\obj\Debug\Srs.csproj.CoreCompileInputs.cache
+F:\University\Искусство Программирования\Srs\Srs\obj\Debug\Srs.exe
+F:\University\Искусство Программирования\Srs\Srs\obj\Debug\Srs.pdb
+F:\University\Искусство Программирования\Srs\Srs\obj\Debug\Srs.Form2.resources
+F:\University\Искусство Программирования\Srs\Srs\obj\Debug\Srs.Form3.resources
